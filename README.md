@@ -31,23 +31,23 @@
 ## newDATASET
 ## 📊 Penjelasan Variabel Dataset
 
-| Kolom | Nama Variabel | Deskripsi                                               |
-|-------|----------------|----------------------------------------------------------|
-| Negara | Negara         | Nama negara dalam observasi                            |
-| Tahun  | Tahun          | Tahun data diambil                                     |
-| A      | CC             | Control of Corruption                                  |
-| B      | GE             | Government Effectiveness                               |
-| C      | PV             | Political Stability and Absence of Violence            |
-| D      | RL             | Rule of Law                                            |
-| E      | RQ             | Regulatory Quality                                     |
-| F      | VA             | Voice and Accountability                               |
-| G      | AVR_QI         | Rata-rata indikator kualitas institusi (A-F)           |
-| H      | EDUofGdp       | Pengeluaran Pendidikan terhadap PDB (%)                |
-| I      | HEALTofGDP     | Pengeluaran Kesehatan terhadap PDB (%)                 |
-| J      | GSPEND         | Pengeluaran Pemerintah (dalam mata uang lokal)         |
-| K      | GSP (mUSD)     | Pengeluaran Pemerintah dalam juta USD                  |
-| L      | INDS_PROD      | Pertumbuhan Produksi Industri                          |
-| M      | GDPpp          | PDB per kapita dalam Purchasing Power Parity (PPP)     |
-| N      | GROWTH         | Laju Pertumbuhan Ekonomi (%)                           |
-| O      | UNEMPL         | Tingkat Pengangguran (%)                               |
-| P      | POV            | Tingkat Kemiskinan (%)                                 |
+| Kolom | Nama Variabel | Deskripsi                                               | Keterangan                                  |
+|-------|----------------|----------------------------------------------------------|---------------------------------------------|
+| Negara | Negara         | Nama negara dalam observasi                             | Negara yang diamati dalam dataset          |
+| Tahun  | Tahun          | Tahun data diambil                                      | Tahun pengumpulan data                     |
+| A      | CC             | Control of Corruption                                   | Indikator pengendalian korupsi             |
+| B      | GE             | Government Effectiveness                                | Efektivitas pemerintahan                    |
+| C      | PV             | Political Stability and Absence of Violence             | Stabilitas politik dan absennya kekerasan   |
+| D      | RL             | Rule of Law                                             | Ketaatan terhadap hukum                     |
+| E      | RQ             | Regulatory Quality                                      | Kualitas regulasi dan kebijakan            |
+| F      | VA             | Voice and Accountability                                | Akses terhadap partisipasi politik         |
+| G      | AVR_QI         | Rata-rata indikator kualitas institusi (A-F)            | Rata-rata nilai indikator A-F              |
+| H      | EDUofGdp       | Pengeluaran Pendidikan terhadap PDB (%)                 | Rasio pengeluaran pendidikan terhadap PDB  |
+| I      | HEALTofGDP     | Pengeluaran Kesehatan terhadap PDB (%)                  | Rasio pengeluaran kesehatan terhadap PDB   |
+| J      | GSPEND         | Pengeluaran Pemerintah (dalam mata uang lokal)          | Total pengeluaran pemerintah dalam mata uang lokal |
+| K      | GSP (mUSD)     | Pengeluaran Pemerintah dalam juta USD                   | Total pengeluaran pemerintah dalam juta USD|
+| L      | INDS_PROD      | Pertumbuhan Produksi Industri                           | Laju pertumbuhan sektor industri           |
+| M      | GDPpp          | PDB per kapita dalam Purchasing Power Parity (PPP)      | PDB per kapita disesuaikan dengan PPP      |
+| N      | GROWTH         | Laju Pertumbuhan Ekonomi (%)                            | Laju pertumbuhan ekonomi tahunan           |
+| O      | UNEMPL         | Tingkat Pengangguran (%)                                | Persentase pengangguran dalam populasi     |
+| P      | POV            | Tingkat Kemiskinan (%)                                  | Persentase populasi yang hidup di bawah garis kemiskinan |
