@@ -27,3 +27,27 @@
 | K     | EDUofGdp  | Education Expenditure (% of GDP)   | Pengeluaran pendidikan sebagai persentase dari PDB                                 |
 | L     | HEALTofGDP| Health Expenditure (% of GDP)      | Pengeluaran kesehatan sebagai persentase dari PDB                                  |
 | M     | UNEMPL    | Unemployment Rate                  | Tingkat pengangguran (dalam persen)                                                |
+
+## newDATASET
+## 📊 Penjelasan Variabel Dataset
+
+| Kolom | Nama Variabel | Deskripsi                                               |
+|-------|----------------|----------------------------------------------------------|
+| Negara | Negara         | Nama negara dalam observasi                            |
+| Tahun  | Tahun          | Tahun data diambil                                     |
+| A      | CC             | Control of Corruption                                  |
+| B      | GE             | Government Effectiveness                               |
+| C      | PV             | Political Stability and Absence of Violence            |
+| D      | RL             | Rule of Law                                            |
+| E      | RQ             | Regulatory Quality                                     |
+| F      | VA             | Voice and Accountability                               |
+| G      | AVR_QI         | Rata-rata indikator kualitas institusi (A-F)           |
+| H      | EDUofGdp       | Pengeluaran Pendidikan terhadap PDB (%)                |
+| I      | HEALTofGDP     | Pengeluaran Kesehatan terhadap PDB (%)                 |
+| J      | GSPEND         | Pengeluaran Pemerintah (dalam mata uang lokal)         |
+| K      | GSP (mUSD)     | Pengeluaran Pemerintah dalam juta USD                  |
+| L      | INDS_PROD      | Pertumbuhan Produksi Industri                          |
+| M      | GDPpp          | PDB per kapita dalam Purchasing Power Parity (PPP)     |
+| N      | GROWTH         | Laju Pertumbuhan Ekonomi (%)                           |
+| O      | UNEMPL         | Tingkat Pengangguran (%)                               |
+| P      | POV            | Tingkat Kemiskinan (%)                                 |
