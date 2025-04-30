@@ -51,3 +51,57 @@
 | N      | GROWTH         | Laju Pertumbuhan Ekonomi (%)                            | Laju pertumbuhan ekonomi tahunan           |
 | O      | UNEMPL         | Tingkat Pengangguran (%)                                | Persentase pengangguran dalam populasi     |
 | P      | POV            | Tingkat Kemiskinan (%)                                  | Persentase populasi yang hidup di bawah garis kemiskinan |
+
+
+## APBD Realisasi Kota Makassar (dalam Miliar)
+| AKUN                                                                 | Kode     |
+|----------------------------------------------------------------------|----------|
+| Pendapatan                                                          | PDtot    |
+| PAD                                                                 | PAD      |
+| Pajak Daerah                                                        | PjD      |
+| Retribusi Daerah                                                    | RtD      |
+| Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan                   | HsKD     |
+| Lain-Lain PAD yang Sah                                              | LainPAD  |
+| TKDD                                                                | TKDD     |
+| Pendapatan Transfer Pemerintah Pusat                                | PDTrf    |
+| Pendapatan Transfer Antar Daerah                                    | PDtrAD   |
+| Dana Perimbangan                                                    | 0        |
+| DBH                                                                 | 0        |
+| DAU                                                                 | 0        |
+| DAK                                                                 | 0        |
+| Pendapatan Lainnya                                                  | PDLain1  |
+| Hibah                                                               | Hbh      |
+| Lain-lain Pendapatan Sesuai dengan Ketentuan Peraturan Perundang-Undangan | PDLain2  |
+| Bagi Hasil Provinsi atau Pemda Lain                                 | BgHProv  |
+| Dana Penyesuaian dan Otsus                                          | Otsus    |
+| Bantuan Keuangan                                                    | BtKeu    |
+| Pendapatan Lainnya                                                  | PDLain3  |
+| Belanja                                                             | Belanja  |
+| Belanja Tidak Langsung                                              | BTL      |
+| Belanja Pegawai Tidak Langsung                                      | BPgTL    |
+| Belanja Langsung                                                    | BL       |
+| Belanja Bunga                                                       | BBung    |
+| Belanja Subsidi                                                     | Bsub     |
+| Belanja Pegawai Langsung                                            | BPgL     |
+| Belanja Barang Jasa                                                 | BBrJasa  |
+| Belanja Daerah                                                      | BlDa     |
+| Belanja Pegawai                                                     | BPeg     |
+| Belanja Modal                                                       | Bmod     |
+| Belanja Lainnya                                                     | Blain    |
+| Belanja Bagi Hasil                                                  | BBH      |
+| Belanja Hibah                                                       | Bhibah   |
+| Belanja Bantuan Sosial                                              | BBSos    |
+| Belanja Bantuan Keuangan                                            | BBKeu    |
+| Belanja Tidak Terduga                                               | BTT      |
+| Pembiayaan Daerah                                                   | PebDa    |
+| Penerimaan Pembiayaan                                               | PenBy    |
+| SiLPA TA Sebelumnya                                                 | SilPA    |
+| Pencairan Dana Cadangan                                             | DnCad    |
+| Penjualan Kekayaan Daerah yang Dipisahkan                           | JKyD     |
+| Penerimaan Pinjaman Daerah                                          | PnPjDa   |
+| Penerimaan Kembali Pemberian Pinjaman                               | PeKemP   |
+| Penerimaan Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan | PePbyLain |
+| Pengeluaran Pembiayaan                                              | PengBiaya|
+| Pembentukan Dana Cadangan                                           | PemDanCad|
+| Penyertaan Modal                                                    | PyrtMo   |
+| Pembayaran Pokok Utang                                              | PbPoUtang|
