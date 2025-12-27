@@ -105,3 +105,24 @@
 | Pembentukan Dana Cadangan                                           | PemDanCad|
 | Penyertaan Modal                                                    | PyrtMo   |
 | Pembayaran Pokok Utang                                              | PbPoUtang|
+
+
+## Deskripsi Variabel Dataset
+
+| Kode | Nama Variabel | Satuan |
+|-----|--------------|--------|
+| Provinsi | Provinsi | - |
+| Tahun | Tahun | Tahun |
+| IPM | Indeks Pembangunan Manusia | Indeks |
+| KMSKN | Tingkat Kemiskinan | % |
+| PMSKN | Penduduk Miskin | Ribu Jiwa |
+| PEGR | Tingkat Pengangguran | % |
+| PEGRjw | Jumlah Pengangguran | Jiwa |
+| PE | Pertumbuhan Ekonomi | % |
+| PADm | Pendapatan Asli Daerah | Miliar Rupiah |
+| TPENDm | Total Pendapatan Daerah | Miliar Rupiah |
+| BEKOm | Belanja Ekonomi | Miliar Rupiah |
+| BKESm | Belanja Kesehatan | Miliar Rupiah |
+| BPENm | Belanja Pendidikan | Miliar Rupiah |
+
+
