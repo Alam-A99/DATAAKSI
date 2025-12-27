@@ -107,7 +107,7 @@
 | Pembayaran Pokok Utang                                              | PbPoUtang|
 
 
-## Deskripsi Variabel Dataset
+## Deskripsi Variabel Dataset DATA_SULAMPUA
 
 | Kode | Nama Variabel | Satuan |
 |-----|--------------|--------|
